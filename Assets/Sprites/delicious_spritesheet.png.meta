@@ -1,0 +1,1724 @@
+fileFormatVersion: 2
+guid: 815c3c87ee92e4944926375374cbf57a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8076804400722612377
+    second: delicious_spritesheet_0
+  - first:
+      213: -7364220757319259107
+    second: delicious_spritesheet_1
+  - first:
+      213: 3771546887303603635
+    second: delicious_spritesheet_2
+  - first:
+      213: -6258670854256174565
+    second: delicious_spritesheet_3
+  - first:
+      213: -2778681047840465411
+    second: delicious_spritesheet_4
+  - first:
+      213: -4529557764210130194
+    second: delicious_spritesheet_5
+  - first:
+      213: -3100303315426981144
+    second: delicious_spritesheet_6
+  - first:
+      213: 7420689398897135781
+    second: delicious_spritesheet_7
+  - first:
+      213: 1783127666666580896
+    second: delicious_spritesheet_8
+  - first:
+      213: 9191937619560888148
+    second: delicious_spritesheet_9
+  - first:
+      213: 1281719083931574605
+    second: delicious_spritesheet_10
+  - first:
+      213: 1684361366968149721
+    second: delicious_spritesheet_11
+  - first:
+      213: 7436398196439709003
+    second: delicious_spritesheet_12
+  - first:
+      213: 2776701966008251801
+    second: delicious_spritesheet_13
+  - first:
+      213: 4735805298309728464
+    second: delicious_spritesheet_14
+  - first:
+      213: -7065228306535121181
+    second: delicious_spritesheet_15
+  - first:
+      213: -6591791606299760833
+    second: delicious_spritesheet_16
+  - first:
+      213: 2471217695984356733
+    second: delicious_spritesheet_17
+  - first:
+      213: 6859388936115811599
+    second: delicious_spritesheet_18
+  - first:
+      213: 7545749468880917572
+    second: delicious_spritesheet_19
+  - first:
+      213: -2483433477008424619
+    second: delicious_spritesheet_20
+  - first:
+      213: -55040773606993610
+    second: delicious_spritesheet_21
+  - first:
+      213: 3506438978452801093
+    second: delicious_spritesheet_22
+  - first:
+      213: -6216204667993660952
+    second: delicious_spritesheet_23
+  - first:
+      213: -3791556555150184595
+    second: delicious_spritesheet_24
+  - first:
+      213: -6323405916774205076
+    second: delicious_spritesheet_25
+  - first:
+      213: -4716711957774488762
+    second: delicious_spritesheet_26
+  - first:
+      213: 5552772960016407643
+    second: delicious_spritesheet_27
+  - first:
+      213: -4489386583743058299
+    second: delicious_spritesheet_28
+  - first:
+      213: 5733172854516117725
+    second: delicious_spritesheet_29
+  - first:
+      213: 2504787393831606806
+    second: delicious_spritesheet_30
+  - first:
+      213: 8213611384290828532
+    second: delicious_spritesheet_31
+  - first:
+      213: -5350651554134348319
+    second: delicious_spritesheet_32
+  - first:
+      213: -6978011336399706454
+    second: delicious_spritesheet_33
+  - first:
+      213: 8500895929484231947
+    second: delicious_spritesheet_34
+  - first:
+      213: -5824291729322713013
+    second: delicious_spritesheet_35
+  - first:
+      213: -4464304430051784580
+    second: delicious_spritesheet_36
+  - first:
+      213: 3392422076836336047
+    second: delicious_spritesheet_37
+  - first:
+      213: -8614170086116783110
+    second: delicious_spritesheet_13
+  - first:
+      213: -6130622353583077530
+    second: delicious_spritesheet_14
+  - first:
+      213: 4372987225972088907
+    second: delicious_spritesheet_15
+  - first:
+      213: 3968781260926213533
+    second: delicious_spritesheet_16
+  - first:
+      213: 8621901969484225009
+    second: delicious_spritesheet_18
+  - first:
+      213: -2529964629508103227
+    second: delicious_spritesheet_19
+  - first:
+      213: 6692656207828827769
+    second: delicious_spritesheet_20
+  - first:
+      213: 3789526174445961539
+    second: delicious_spritesheet_22
+  - first:
+      213: -8589463114204052979
+    second: delicious_spritesheet_23
+  - first:
+      213: -1308838444570169805
+    second: delicious_spritesheet_25
+  - first:
+      213: 2612426365037946148
+    second: delicious_spritesheet_26
+  - first:
+      213: 5762042952586645800
+    second: delicious_spritesheet_29
+  - first:
+      213: -6164493466444674986
+    second: delicious_spritesheet_30
+  - first:
+      213: -1335884258070738578
+    second: delicious_spritesheet_31
+  - first:
+      213: -3595795907793095215
+    second: delicious_spritesheet_32
+  - first:
+      213: 7767212649026012524
+    second: delicious_spritesheet_33
+  - first:
+      213: 1393122304994511802
+    second: delicious_spritesheet_38
+  - first:
+      213: 1691573235864491818
+    second: delicious_spritesheet_39
+  - first:
+      213: -6369758681201072943
+    second: delicious_spritesheet_40
+  - first:
+      213: 4510158676937627683
+    second: delicious_spritesheet_41
+  - first:
+      213: 5889205814921585099
+    second: delicious_spritesheet_42
+  - first:
+      213: -2552386323502228740
+    second: delicious_spritesheet_43
+  - first:
+      213: 938387330592572085
+    second: delicious_spritesheet_44
+  - first:
+      213: -2501809957331842692
+    second: delicious_spritesheet_45
+  - first:
+      213: 2556818780092674017
+    second: delicious_spritesheet_46
+  - first:
+      213: -8734374853378748999
+    second: delicious_spritesheet_47
+  - first:
+      213: 5474885758581533561
+    second: delicious_spritesheet_48
+  - first:
+      213: 8184318163877330984
+    second: delicious_spritesheet_49
+  - first:
+      213: -4697952504628614846
+    second: delicious_spritesheet_50
+  - first:
+      213: 1829864646963250799
+    second: delicious_spritesheet_51
+  - first:
+      213: 7275645127754867963
+    second: delicious_spritesheet_52
+  - first:
+      213: -3058577757695108986
+    second: delicious_spritesheet_53
+  - first:
+      213: -1524156297038283743
+    second: delicious_spritesheet_54
+  - first:
+      213: 2775740188261460421
+    second: delicious_spritesheet_55
+  - first:
+      213: 157201851839518100
+    second: delicious_spritesheet_56
+  - first:
+      213: 2299602799589777361
+    second: delicious_spritesheet_57
+  - first:
+      213: 3364531089631437825
+    second: delicious_spritesheet_58
+  - first:
+      213: -7097137857741562205
+    second: delicious_spritesheet_59
+  - first:
+      213: -7285658105129329883
+    second: delicious_spritesheet_60
+  - first:
+      213: -1676638732669121342
+    second: delicious_spritesheet_61
+  - first:
+      213: -1943140298682050679
+    second: delicious_spritesheet_62
+  - first:
+      213: -6176022700802348278
+    second: delicious_spritesheet_63
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 2
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 500
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: delicious_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1815
+        width: 188
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99012694fc2961070800000000000000
+      internalID: 8076804400722612377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicious_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1814
+        width: 193
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c6d601d380dc990800000000000000
+      internalID: -7364220757319259107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicious_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1816
+        width: 191
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b5267759e9375430800000000000000
+      internalID: 3771546887303603635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicious_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 1869
+        width: 153
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a58f5940cb429a0800000000000000
+      internalID: -6258670854256174565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicious_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 1868
+        width: 154
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfddb5f1f442079d0800000000000000
+      internalID: -2778681047840465411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicious_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 1868
+        width: 153
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee284aa4637c321c0800000000000000
+      internalID: -4529557764210130194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicious_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 1868
+        width: 154
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea420c8f8289f4d0800000000000000
+      internalID: -3100303315426981144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicious_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 1868
+        width: 153
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a055c911b59bf660800000000000000
+      internalID: 7420689398897135781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicious_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 1869
+        width: 154
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab25d85a21feb810800000000000000
+      internalID: 1783127666666580896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicious_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 1889
+        y: 1868
+        width: 152
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 457f9736092509f70800000000000000
+      internalID: 9191937619560888148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicious_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1582
+        width: 190
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d41a49b47b499c110800000000000000
+      internalID: 1281719083931574605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicious_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1580
+        width: 195
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d627873dbd006710800000000000000
+      internalID: 1684361366968149721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicious_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 1580
+        width: 191
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45f42b82c4633760800000000000000
+      internalID: 7436398196439709003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicious_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 1683
+        width: 154
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d8ec3c6678b4220800000000000000
+      internalID: 2471217695984356733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicious_spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 1775
+        y: 1600
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6311ef045b47c3ff0800000000000000
+      internalID: -55040773606993610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicious_spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1350
+        width: 188
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f2870d66fa16bc0800000000000000
+      internalID: -3791556555150184595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicious_spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 1510
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c1c2856996f0d40800000000000000
+      internalID: 5552772960016407643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicious_spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 1783
+        y: 1512
+        width: 80
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e279810be72b1c0800000000000000
+      internalID: -4489386583743058299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicious_spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 1428
+        width: 79
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b05c875eecf39f570800000000000000
+      internalID: 8500895929484231947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicious_spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 1958
+        y: 1430
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b406975d785fb2fa0800000000000000
+      internalID: -5824291729322713013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicious_spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 1344
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c788f8516ca9b02c0800000000000000
+      internalID: -4464304430051784580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicious_spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 1343
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa1d502b7ed441f20800000000000000
+      internalID: 3392422076836336047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicious_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1685
+        width: 154
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb863e42f1547880800000000000000
+      internalID: -8614170086116783110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicious_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 1685
+        width: 155
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6678c9a6377abeaa0800000000000000
+      internalID: -6130622353583077530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicious_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 1683
+        width: 154
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40236386b8ffac30800000000000000
+      internalID: 4372987225972088907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicious_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 1683
+        width: 154
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ddbb08781f31730800000000000000
+      internalID: 3968781260926213533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicious_spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 1684
+        width: 154
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f91953192627a770800000000000000
+      internalID: 8621901969484225009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicious_spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 1685
+        width: 154
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c3edd3e292c3ecd0800000000000000
+      internalID: -2529964629508103227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicious_spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 1598
+        width: 78
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e337f9c5711ec50800000000000000
+      internalID: 6692656207828827769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicious_spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 1600
+        width: 80
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34185e65af9179430800000000000000
+      internalID: 3789526174445961539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicious_spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 1954
+        y: 1599
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d020c8a7ec81cc880800000000000000
+      internalID: -8589463114204052979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicious_spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1350
+        width: 194
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e25038e5216dde0800000000000000
+      internalID: -1308838444570169805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicious_spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1349
+        width: 192
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425a3f110f3314420800000000000000
+      internalID: 2612426365037946148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicious_spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 1513
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82158796983e6ff40800000000000000
+      internalID: 5762042952586645800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicious_spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 1513
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65849586ad1537aa0800000000000000
+      internalID: -6164493466444674986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicious_spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 1311
+        width: 334
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6948a8585cf57de0800000000000000
+      internalID: -1335884258070738578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicious_spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 1346
+        width: 325
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d570375caa291ec0800000000000000
+      internalID: -3595795907793095215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicious_spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 1431
+        width: 78
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65cd1870ceaacb60800000000000000
+      internalID: 7767212649026012524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicious_spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 1966
+        y: 1343
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb0fd5fa5d555310800000000000000
+      internalID: 1393122304994511802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicious_spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1114
+        width: 188
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27d24b45eca97710800000000000000
+      internalID: 1691573235864491818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicious_spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1113
+        width: 194
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d4ac065a321a97a0800000000000000
+      internalID: -6369758681201072943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicious_spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 1114
+        width: 191
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 328538bbb6d479e30800000000000000
+      internalID: 4510158676937627683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicious_spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 1100
+        width: 392
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc1e09f7c79aab150800000000000000
+      internalID: 5889205814921585099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicious_spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 794
+        width: 460
+        height: 388
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 40, y: 100, z: 40, w: 40}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa9512792a149cd0800000000000000
+      internalID: -2552386323502228740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicious_spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 876
+        width: 190
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b282bd2e42d50d00800000000000000
+      internalID: 938387330592572085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicious_spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 875
+        width: 193
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7943b55919c74dd0800000000000000
+      internalID: -2501809957331842692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicious_spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 878
+        width: 191
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1efa8764225ab7320800000000000000
+      internalID: 2556818780092674017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicious_spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 901
+        width: 392
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd4149f85449c680800000000000000
+      internalID: -8734374853378748999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicious_spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 908
+        width: 117
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97be81a1793bafb40800000000000000
+      internalID: 5474885758581533561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicious_spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 933
+        width: 80
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8208fa6f10a849170800000000000000
+      internalID: 8184318163877330984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicious_spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 634
+        width: 227
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24964fd76158dceb0800000000000000
+      internalID: -4697952504628614846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicious_spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 658
+        width: 185
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f664a4d833cf46910800000000000000
+      internalID: 1829864646963250799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicious_spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 10
+        width: 563
+        height: 750
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf461a712b848f460800000000000000
+      internalID: 7275645127754867963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicious_spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 595
+        width: 457
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 40, y: 100, z: 40, w: 40}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6881ca20cbfbd85d0800000000000000
+      internalID: -3058577757695108986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicious_spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 531
+        width: 76
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12cbbd45ceb19dae0800000000000000
+      internalID: -1524156297038283743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicious_spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 531
+        width: 76
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c9a916aef8658620800000000000000
+      internalID: 2775740188261460421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicious_spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 531
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4959de8504e7e2200800000000000000
+      internalID: 157201851839518100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicious_spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 288
+        width: 226
+        height: 292
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 40, y: 40, z: 40, w: 40}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dfda0aff84d9ef10800000000000000
+      internalID: 2299602799589777361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicious_spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 468
+        width: 440
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1046d31333731be20800000000000000
+      internalID: 3364531089631437825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicious_spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 419
+        width: 440
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae565b78b6e18d90800000000000000
+      internalID: -7097137857741562205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicious_spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 4
+        width: 187
+        height: 315
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b12d0fd8424ea90800000000000000
+      internalID: -7285658105129329883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicious_spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 8
+        width: 183
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc8892b4f16bb8e0800000000000000
+      internalID: -1676638732669121342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicious_spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 0
+        width: 188
+        height: 318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9875f4c81349805e0800000000000000
+      internalID: -1943140298682050679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicious_spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 673
+        width: 153
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b6de9531c5a4aa0800000000000000
+      internalID: -6176022700802348278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: be7e41ad6da5f6f4cb8d1d530c34982b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,647 @@
+fileFormatVersion: 2
+guid: cffb8a21de85ab848b811ac5a3e313b9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -165392186388222926
+    second: Recap 1_0
+  - first:
+      213: 4598896987393631788
+    second: Recap 1_1
+  - first:
+      213: 7632407968807992893
+    second: Recap 1_2
+  - first:
+      213: -5323148147455466119
+    second: Recap 1_3
+  - first:
+      213: 2232458304897262128
+    second: Recap 1_4
+  - first:
+      213: -2453605569056383094
+    second: Recap 1_5
+  - first:
+      213: 3520696171646492213
+    second: Recap 1_6
+  - first:
+      213: -6535701550303320332
+    second: Recap 1_7
+  - first:
+      213: -9005885408347332874
+    second: Recap 1_8
+  - first:
+      213: -9050450767585009342
+    second: Recap 1_9
+  - first:
+      213: 7061086889068927832
+    second: Recap 1_10
+  - first:
+      213: -6921744875170911709
+    second: Recap 1_11
+  - first:
+      213: -8855071656731114192
+    second: Recap 1_12
+  - first:
+      213: -3675589043423092620
+    second: Recap 1_13
+  - first:
+      213: -1968914448685621183
+    second: Recap 1_14
+  - first:
+      213: -928538787072635827
+    second: Recap 1_15
+  - first:
+      213: -5611158700681885281
+    second: Recap 1_16
+  - first:
+      213: -4426566352759558384
+    second: Recap 1_17
+  - first:
+      213: 91760767812584855
+    second: Recap 1_18
+  - first:
+      213: 4357145929843644509
+    second: Recap 1_19
+  - first:
+      213: 4302012241052661332
+    second: Recap 1_20
+  - first:
+      213: 9206249191458894967
+    second: Recap 1_21
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 2
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Recap 1_0
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1076
+        width: 924
+        height: 904
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c64b9cea864bdf0800000000000000
+      internalID: -165392186388222926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recap 1_1
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 1772
+        width: 180
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c26263ca17092df30800000000000000
+      internalID: 4598896987393631788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recap 1_2
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 1390
+        width: 178
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e39a10c92cbe960800000000000000
+      internalID: 7632407968807992893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recap 1_3
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 686
+        width: 217
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975632096f06026b0800000000000000
+      internalID: -5323148147455466119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recap 1_4
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 685
+        width: 219
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032a54f00094bfe10800000000000000
+      internalID: 2232458304897262128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recap 1_5
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 684
+        width: 219
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f59751cba03fdd0800000000000000
+      internalID: -2453605569056383094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recap 1_6
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 888
+        width: 316
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e1111c3860cd030800000000000000
+      internalID: 3520696171646492213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recap 1_7
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 908
+        width: 282
+        height: 272
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6633051168c45a0800000000000000
+      internalID: -6535701550303320332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recap 1_8
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 771
+        width: 106
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe5593bfeaa40380800000000000000
+      internalID: -9005885408347332874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recap 1_9
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 572
+        width: 241
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2412fec6af6566280800000000000000
+      internalID: -9050450767585009342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recap 1_11
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 733
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32aae8185b501ff90800000000000000
+      internalID: -6921744875170911709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recap 1_12
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 720
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03589ef8e377c1580800000000000000
+      internalID: -8855071656731114192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recap 1_13
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 708
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 470e2763d3fadfcc0800000000000000
+      internalID: -3675589043423092620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recap 1_14
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 696
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140a5fc9db20da4e0800000000000000
+      internalID: -1968914448685621183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recap 1_15
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 52
+        width: 355
+        height: 613
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c0d5c84ea2d13f0800000000000000
+      internalID: -928538787072635827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recap 1_16
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 56
+        width: 354
+        height: 604
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f99838314e82122b0800000000000000
+      internalID: -5611158700681885281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recap 1_17
+      rect:
+        serializedVersion: 2
+        x: 1886
+        y: 620
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 68, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01fe119ea5da192c0800000000000000
+      internalID: -4426566352759558384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recap 1_18
+      rect:
+        serializedVersion: 2
+        x: 1733
+        y: 386
+        width: 151
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79549c1aeeff54100800000000000000
+      internalID: 91760767812584855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recap 1_19
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 91
+        width: 273
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 60, y: 60, z: 60, w: 60}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d589ed65321b77c30800000000000000
+      internalID: 4357145929843644509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recap 1_20
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 79
+        width: 262
+        height: 268
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45673571751d3bb30800000000000000
+      internalID: 4302012241052661332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recap 1_21
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 54
+        width: 354
+        height: 609
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77472a2ecda23cf70800000000000000
+      internalID: 9206249191458894967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

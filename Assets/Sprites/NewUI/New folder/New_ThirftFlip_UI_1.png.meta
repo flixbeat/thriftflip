@@ -1,0 +1,528 @@
+fileFormatVersion: 2
+guid: 023f190fd5773ad4dabc63a8fb8ce768
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3750248738274664955
+    second: New_ThirftFlip_UI_1_0
+  - first:
+      213: -2905054159814531251
+    second: New_ThirftFlip_UI_1_1
+  - first:
+      213: -8582767212853829990
+    second: New_ThirftFlip_UI_1_2
+  - first:
+      213: 9129737924338977890
+    second: New_ThirftFlip_UI_1_3
+  - first:
+      213: 6642146292715114715
+    second: New_ThirftFlip_UI_1_4
+  - first:
+      213: -8506381641415928538
+    second: New_ThirftFlip_UI_1_5
+  - first:
+      213: -112624350458329610
+    second: New_ThirftFlip_UI_1_6
+  - first:
+      213: 550978734407771219
+    second: New_ThirftFlip_UI_1_7
+  - first:
+      213: -8939845115490406208
+    second: New_ThirftFlip_UI_1_8
+  - first:
+      213: 5435046611128625004
+    second: New_ThirftFlip_UI_1_9
+  - first:
+      213: 4969677463834843439
+    second: New_ThirftFlip_UI_1_10
+  - first:
+      213: 1916376236285209059
+    second: New_ThirftFlip_UI_1_11
+  - first:
+      213: -7695854631897666464
+    second: New_ThirftFlip_UI_1_12
+  - first:
+      213: 4746526296663347681
+    second: New_ThirftFlip_UI_1_13
+  - first:
+      213: 3241551523820880409
+    second: New_ThirftFlip_UI_1_14
+  - first:
+      213: -4025884748030256978
+    second: New_ThirftFlip_UI_1_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 2
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: New_ThirftFlip_UI_1_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 330
+        width: 155
+        height: 670
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e18c764a074fbc0800000000000000
+      internalID: -3750248738274664955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_ThirftFlip_UI_1_1
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 891
+        width: 84
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d47ebfe12ac2fa7d0800000000000000
+      internalID: -2905054159814531251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_ThirftFlip_UI_1_2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 835
+        width: 382
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e5aff71b2e3e880800000000000000
+      internalID: -8582767212853829990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_ThirftFlip_UI_1_3
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 844
+        width: 141
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c03a0554853be70800000000000000
+      internalID: 9129737924338977890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_ThirftFlip_UI_1_4
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 439
+        width: 40
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd056739cd4ad2c50800000000000000
+      internalID: 6642146292715114715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_ThirftFlip_UI_1_5
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 439
+        width: 40
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 625df7347f243f980800000000000000
+      internalID: -8506381641415928538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_ThirftFlip_UI_1_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 682
+        width: 119
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f54fddffb0ef6ef0800000000000000
+      internalID: -112624350458329610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_ThirftFlip_UI_1_7
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 719
+        width: 235
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3546b2f5d3875a700800000000000000
+      internalID: 550978734407771219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_ThirftFlip_UI_1_8
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 656
+        width: 142
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c0fe289b3a4fe380800000000000000
+      internalID: -8939845115490406208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_ThirftFlip_UI_1_9
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 598
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c672302c81a2d6b40800000000000000
+      internalID: 5435046611128625004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_ThirftFlip_UI_1_10
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 560
+        width: 72
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f29d328a257d7f440800000000000000
+      internalID: 4969677463834843439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_ThirftFlip_UI_1_11
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 578
+        width: 115
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9a7c39806589a10800000000000000
+      internalID: 1916376236285209059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_ThirftFlip_UI_1_12
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 470
+        width: 141
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ce1b69cf4d23590800000000000000
+      internalID: -7695854631897666464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_ThirftFlip_UI_1_13
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 33
+        width: 242
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e15ba5c48c0fd140800000000000000
+      internalID: 4746526296663347681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_ThirftFlip_UI_1_14
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 18
+        width: 246
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912487abfed4cfc20800000000000000
+      internalID: 3241551523820880409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_ThirftFlip_UI_1_15
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 24
+        width: 337
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea85ef6d62f2128c0800000000000000
+      internalID: -4025884748030256978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e9211ddab61ef684bb33b04501f692f4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

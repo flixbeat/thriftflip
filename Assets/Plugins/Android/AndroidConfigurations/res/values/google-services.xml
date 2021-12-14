@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id,@string/admob_app_id" xmlns:tools="http://schemas.android.com/tools">
+  <string name="google_crash_reporting_api_key" translatable="false">
+  </string>
+  <string name="default_web_client_id" translatable="false">
+  </string>
+  <string name="admob_app_id" translatable="false">
+  </string>
+  <string name="firebase_database_url" translatable="false">
+  </string>
+  <string name="gcm_defaultSenderId" translatable="false">31469024162</string>
+  <string name="google_storage_bucket" translatable="false">cl-thrift-flip.appspot.com</string>
+  <string name="project_id" translatable="false">cl-thrift-flip</string>
+  <string name="google_api_key" translatable="false">AIzaSyDok5lWr_FJiVeW_cRWlEbvrSNLVNI5ySE</string>
+  <string name="google_app_id" translatable="false">1:31469024162:android:596982a4897a0db4f078fb</string>
+  <string name="client_id" translatable="false">31469024162-k4o14qjuc1an16kdjtem5i73mth28roh.apps.googleusercontent.com</string>
+</resources>

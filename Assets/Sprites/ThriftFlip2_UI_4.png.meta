@@ -1,0 +1,648 @@
+fileFormatVersion: 2
+guid: 1f934bceb97e6ad4ca242b33affb5fff
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7751576079666405407
+    second: ThriftFlip2_UI_4_0
+  - first:
+      213: -1940102553424157150
+    second: ThriftFlip2_UI_4_1
+  - first:
+      213: 1780502877013609753
+    second: ThriftFlip2_UI_4_2
+  - first:
+      213: -9045172075522790262
+    second: ThriftFlip2_UI_4_3
+  - first:
+      213: -55153576254697568
+    second: ThriftFlip2_UI_4_4
+  - first:
+      213: 2764006390839909431
+    second: ThriftFlip2_UI_4_5
+  - first:
+      213: 932814829698623724
+    second: ThriftFlip2_UI_4_6
+  - first:
+      213: -870250671595263240
+    second: ThriftFlip2_UI_4_7
+  - first:
+      213: 6258203289238925455
+    second: ThriftFlip2_UI_4_8
+  - first:
+      213: 5065475820573488499
+    second: ThriftFlip2_UI_4_9
+  - first:
+      213: 753406420212032506
+    second: ThriftFlip2_UI_4_10
+  - first:
+      213: -3178868004770469733
+    second: ThriftFlip2_UI_4_11
+  - first:
+      213: -9222073564221190560
+    second: ThriftFlip2_UI_4_12
+  - first:
+      213: -2988925669728183393
+    second: ThriftFlip2_UI_4_13
+  - first:
+      213: 3802165960107011970
+    second: ThriftFlip2_UI_4_14
+  - first:
+      213: -7238434262648158731
+    second: ThriftFlip2_UI_4_15
+  - first:
+      213: -1124358640273235859
+    second: ThriftFlip2_UI_4_16
+  - first:
+      213: 7668695623540898576
+    second: ThriftFlip2_UI_4_17
+  - first:
+      213: -5189273602065665031
+    second: ThriftFlip2_UI_4_18
+  - first:
+      213: 7167445559107683056
+    second: ThriftFlip2_UI_4_19
+  - first:
+      213: -1764891165465318825
+    second: ThriftFlip2_UI_4_20
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 2
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ThriftFlip2_UI_4_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1800
+        width: 888
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f106ee5ff51239b60800000000000000
+      internalID: 7751576079666405407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThriftFlip2_UI_4_1
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 1308
+        width: 736
+        height: 736
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226235bb10f5315e0800000000000000
+      internalID: -1940102553424157150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThriftFlip2_UI_4_2
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1479
+        width: 229
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d05f1eeed95b810800000000000000
+      internalID: 1780502877013609753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThriftFlip2_UI_4_3
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1195
+        width: 182
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c6e22bbe7197280800000000000000
+      internalID: -9045172075522790262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThriftFlip2_UI_4_4
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1195
+        width: 224
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af0f375d1e0c3ff0800000000000000
+      internalID: -55153576254697568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThriftFlip2_UI_4_5
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 1198
+        width: 182
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c1cea0b29bb5620800000000000000
+      internalID: 2764006390839909431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThriftFlip2_UI_4_6
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 1068
+        width: 792
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce82765352602fc00800000000000000
+      internalID: 932814829698623724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThriftFlip2_UI_4_7
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 854
+        width: 502
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fae40eff9f3ce3f0800000000000000
+      internalID: -870250671595263240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThriftFlip2_UI_4_8
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 584
+        width: 153
+        height: 406
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f807443fbba99d650800000000000000
+      internalID: 6258203289238925455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThriftFlip2_UI_4_9
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 584
+        width: 172
+        height: 428
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 375fc97bb6f2c4640800000000000000
+      internalID: 5065475820573488499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThriftFlip2_UI_4_10
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 530
+        width: 343
+        height: 438
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3ac30c523a47a00800000000000000
+      internalID: 753406420212032506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThriftFlip2_UI_4_11
+      rect:
+        serializedVersion: 2
+        x: 1612
+        y: 533
+        width: 376
+        height: 501
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b982dcb546462e3d0800000000000000
+      internalID: -3178868004770469733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThriftFlip2_UI_4_12
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 694
+        width: 528
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e431834fc940080800000000000000
+      internalID: -9222073564221190560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThriftFlip2_UI_4_13
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 588
+        width: 510
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b1ecb70f33586d0800000000000000
+      internalID: -2988925669728183393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThriftFlip2_UI_4_14
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 22
+        width: 419
+        height: 462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28fa245cbc104c430800000000000000
+      internalID: 3802165960107011970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThriftFlip2_UI_4_15
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 53
+        width: 400
+        height: 441
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f507d4936aeb8b90800000000000000
+      internalID: -7238434262648158731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThriftFlip2_UI_4_16
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 29
+        width: 324
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d606f5616c97560f0800000000000000
+      internalID: -1124358640273235859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThriftFlip2_UI_4_17
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 17
+        width: 383
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b7fb30a0eac6a60800000000000000
+      internalID: 7668695623540898576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThriftFlip2_UI_4_18
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 24
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f37092272ffbf7b0800000000000000
+      internalID: -5189273602065665031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThriftFlip2_UI_4_19
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1461
+        width: 280
+        height: 266
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f28091e2c1e77360800000000000000
+      internalID: 7167445559107683056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThriftFlip2_UI_4_20
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 1461
+        width: 236
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ae637f5d8d187e0800000000000000
+      internalID: -1764891165465318825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 8a632acd4ef3f3a4e9c66c98ef40b14a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

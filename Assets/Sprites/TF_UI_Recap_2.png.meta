@@ -1,0 +1,600 @@
+fileFormatVersion: 2
+guid: ffe8aeba52f60124fba14d4822580f3f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 64517376472227859
+    second: TF_UI_Recap_2_0
+  - first:
+      213: -7349144721080450787
+    second: TF_UI_Recap_2_1
+  - first:
+      213: 1689970997745943281
+    second: TF_UI_Recap_2_2
+  - first:
+      213: 3040119732940930930
+    second: TF_UI_Recap_2_3
+  - first:
+      213: -474614947625859483
+    second: TF_UI_Recap_2_4
+  - first:
+      213: 6396963494217022880
+    second: TF_UI_Recap_2_5
+  - first:
+      213: -8117226800090400879
+    second: TF_UI_Recap_2_6
+  - first:
+      213: 2795504026845357193
+    second: TF_UI_Recap_2_7
+  - first:
+      213: 5625742377383149191
+    second: TF_UI_Recap_2_8
+  - first:
+      213: -4876228972289631743
+    second: TF_UI_Recap_2_9
+  - first:
+      213: 2994583792879781044
+    second: TF_UI_Recap_2_10
+  - first:
+      213: 4045017457832126955
+    second: TF_UI_Recap_2_11
+  - first:
+      213: -7588747754232990905
+    second: TF_UI_Recap_2_12
+  - first:
+      213: 2604988962235249979
+    second: TF_UI_Recap_2_13
+  - first:
+      213: -7665869970347964117
+    second: TF_UI_Recap_2_14
+  - first:
+      213: 2855833984943197381
+    second: TF_UI_Recap_2_15
+  - first:
+      213: -790387758347641012
+    second: TF_UI_Recap_2_16
+  - first:
+      213: 6940094138496260102
+    second: TF_UI_Recap_2_17
+  - first:
+      213: 1456583517077698520
+    second: TF_UI_Recap_2_18
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 2
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TF_UI_Recap_2_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 928
+        width: 79
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 310a77a463635e000800000000000000
+      internalID: 64517376472227859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TF_UI_Recap_2_1
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 965
+        width: 262
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d11001940d7920a90800000000000000
+      internalID: -7349144721080450787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TF_UI_Recap_2_2
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 957
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f20c592babf37710800000000000000
+      internalID: 1689970997745943281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TF_UI_Recap_2_3
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 161
+        width: 476
+        height: 857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f79943acca03a20800000000000000
+      internalID: 3040119732940930930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TF_UI_Recap_2_4
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 807
+        width: 95
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5668ba14834d969f0800000000000000
+      internalID: -474614947625859483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TF_UI_Recap_2_5
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 834
+        width: 277
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad72f9c76496c850800000000000000
+      internalID: 6396963494217022880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TF_UI_Recap_2_6
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 644
+        width: 136
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 197b4537b31d95f80800000000000000
+      internalID: -8117226800090400879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TF_UI_Recap_2_7
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 656
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 984aa48e910abc620800000000000000
+      internalID: 2795504026845357193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TF_UI_Recap_2_8
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 656
+        width: 124
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78eb8c1c2e6a21e40800000000000000
+      internalID: 5625742377383149191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TF_UI_Recap_2_9
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 500
+        width: 129
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a5537c597245cb0800000000000000
+      internalID: -4876228972289631743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TF_UI_Recap_2_10
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 420
+        width: 78
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4cdb8f716ee8920800000000000000
+      internalID: 2994583792879781044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TF_UI_Recap_2_11
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 323
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9665c42f9c22830800000000000000
+      internalID: 4045017457832126955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TF_UI_Recap_2_12
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 218
+        width: 88
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74336eadf1a5fa690800000000000000
+      internalID: -7588747754232990905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TF_UI_Recap_2_13
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 118
+        width: 68
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3578d9c8a7c62420800000000000000
+      internalID: 2604988962235249979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TF_UI_Recap_2_14
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 104
+        width: 45
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b294313a0eb5d9590800000000000000
+      internalID: -7665869970347964117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TF_UI_Recap_2_15
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 51
+        width: 202
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc0702e0e5f1a720800000000000000
+      internalID: 2855833984943197381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TF_UI_Recap_2_16
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 21
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f1fdc758af705f0800000000000000
+      internalID: -790387758347641012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TF_UI_Recap_2_17
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 60
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60817d849da205060800000000000000
+      internalID: 6940094138496260102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TF_UI_Recap_2_18
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 42
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d7fa11ddf2d63410800000000000000
+      internalID: 1456583517077698520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

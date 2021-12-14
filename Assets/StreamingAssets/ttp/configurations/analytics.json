@@ -1,0 +1,12 @@
+{
+  "included": true,
+  "firebase": {
+    "googleAppId": "1:31469024162:android:596982a4897a0db4f078fb",
+    "apiKey": "AIzaSyDok5lWr_FJiVeW_cRWlEbvrSNLVNI5ySE",
+    "projectId": "cl-thrift-flip",
+    "clientId": "31469024162-k4o14qjuc1an16kdjtem5i73mth28roh.apps.googleusercontent.com",
+    "senderId": "31469024162",
+    "storageBucket": "cl-thrift-flip.appspot.com",
+    "databaseURL": ""
+  }
+}
